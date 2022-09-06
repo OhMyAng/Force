@@ -2,6 +2,5 @@ bs4
 requests
 rich
 mechanize
-futures
 random-user-agent
 npm
