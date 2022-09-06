@@ -10,6 +10,9 @@ $ cd Force
 $ pip install -r requirements.txt
 $ python force.py
 ```
+#### Results crack
+![IMG_20220906_082828](https://user-images.githubusercontent.com/112907633/188528080-3e48314c-e741-4a35-a182-3909828ff268.jpg)
+
 #### Update tools
 ``` bash
 $ rm -rf Force
